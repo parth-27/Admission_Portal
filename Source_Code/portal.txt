@@ -1,0 +1,9 @@
+Following are the features :
+
+	1.>	NEW Admission
+	2.>	EDIT your Details
+	3.>	SEARCH your Details
+	4.>	REGISTER for furthur Notications
+	5.>	ABOUT US & FEEDBACK
+
+ Pls. Enter the respective number :	
